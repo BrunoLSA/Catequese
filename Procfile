@@ -1,0 +1,1 @@
+web: gunicorn catequese.wsgi --log-file -
